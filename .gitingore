@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+*.env
+.env/
+
+# Build / distribution directories
+build/
+dist/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Data files (optional)
+# Uncomment if you don’t want to upload datasets
+# data/
+
+# Cache folders
+.cache/
+__pycache__/
+
+# Other IDE/project files
+.idea/
